@@ -4,7 +4,7 @@ Hora |Track 1|
 -----|--------------------|
 17:00| KeyNote| |
 17:00| [SPFx for beginners](./SPFx-Beginners/README.md) |
-18:00| [Teams](./)|
+18:00| [Teams](./Teams/MessageExtensions/readme.md)|
 19:00| [SPFx for advanced](./SPfx-Advanced/README.md)|
 
 
