@@ -34,9 +34,9 @@
 
 Antes de probar nuestro webpart en SharePoint, es necesario instalar un certificado de desarrollador en nuestro entorno de desarrollo __una única vez__. Para ello sólo tenemos que ejecutar el siguiente comando en la carpeta donde esté nuestra solución SPFx. Si ya lo tenemos instalado, podemos simplemente ignorar este paso.
     
-```shell
-gulp trust-dev-cert
-```
+    ```shell
+    gulp trust-dev-cert
+    ```
 
 Posteriormente ejecutaremos el proyecto con el siguiente comando:
 
