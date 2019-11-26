@@ -1,44 +1,20 @@
 ## WebPart Properties
  
-Hora |Track 1|Track 2| 
------|--------------------|--------------------|
-08:00| Registrer| |
-09:00| KeyNote| |
-09:15| [SPFx for beginners](./SPFx-Beginners/README.md) | [Aplicaciones inteligentes con Servicios cognitivos](./Aplicaciones_Inteligentes/README.md)|  
-11:00| [SPFx for advanced](./SPfx-Advanced/README.md)| Ahorra tiempo con Flow | 
-12:45| xFx Advanced & Graph | Power Virtual Agent y Model driven apps | 
-14:00| QA|  | 
-14:30| Subways| Subways | 
+Hora |Track 1|
+-----|--------------------|
+17:00| KeyNote| |
+17:00| [SPFx for beginners](./SPFx-Beginners/README.md) |
+18:00| [Teams](./)|
+19:00| [SPFx for advanced](./SPfx-Advanced/README.md)|
 
-## Instrucciones Wifi
-Connection Instructions:
 
-• Make sure your wireless adapter is set to dynamically obtain an IP address
-
-• Connect to the wireless network MSFTGUEST
-
-• Open a browser and navigate to a web site to be redirected to the Captive Portal
-
-• Click on Event Attendee Code and enter the access code: msevent256kk
 
 ## Surveys
 https://aka.ms/Microsoft365DevBootcampSurvey2019 
 
 
-Speakers & Staff
+Speakers 
 --------|
-Olga Martí|
-Elena Salcedo|
-Juan Carlos Gonzalez|
-Ruben Ramos|
-Rafael Ansino|
-Luis Mañez|
-Santiago Porras|
-Sergio Hernandez|
-Imanol Iza|
-Miguel Tabera|
-Carlos Tabera|
-Felipe Velayos|
-Ivan Gomez Rodriguez|
-Ángel Carrillo|
-Adrian Díaz|
+Alberto Díaz ([@adiazcan](https://twitter.com/adiazcan))|
+Ruben Ramos ([@rubenr79](https://twitter.com/rubenr79))|
+Adrian Díaz ([@AdrianDiaz81](https://twitter.com/AdrianDiaz81))|
