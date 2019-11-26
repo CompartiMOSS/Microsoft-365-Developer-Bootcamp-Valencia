@@ -1,9 +1,7 @@
 # SPFx for beginners
 
 ## Ponentes
-1. Ángel Carrillo ([@angeIdav](https://twitter.com/angeIdav))
-2. Santiago Porras ([@saintwukong](https://twitter.com/saintwukong))
-3. Felipe Velayos
+1. Alberto Diaz ([@adiazcan](https://twitter.com/adiazcan))
 
 ## Introducción
 En este workshop vamos a introducirnos en los aspectos básicos de SharePoint Framework (SPFx), centrándonos no sólo en la creación y configuración de un entorno de desarollo, sino en crear nuestro primer webpart y conocer los tres tipos de extensiones adicionales que podemos crear: ___Application Customizers___, ___Field Customizers___ y ___ListView Command Sets___.
